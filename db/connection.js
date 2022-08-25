@@ -3,7 +3,9 @@ const db = mysql.createConnection(
     {
         host: 'localhost', 
         user: 'root',
-        password: 'root',
+
+        
+        password: 'CK4264@9413#(^*',
         database: 'employees'
     }
 );
